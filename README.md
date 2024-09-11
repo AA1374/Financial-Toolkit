@@ -9,4 +9,7 @@ This repository contains a collection of functions for financial risk management
 - **Portfolio Optimization**: Functions for calculating portfolio returns, volatility, and optimal weights using mean-variance optimization.
 - **Efficient Frontier Plotting**: Visualize the efficient frontier for multi-asset portfolios, including options for Capital Market Line (CML), Equally Weighted (EW) portfolios, and Global Minimum Volatility (GMV) portfolios.
 
-
+<footer style="font-size: 7px;">
+  Introduction to Portfolio Construction and Analysis with Python<br>
+  EDHEC Business School
+</footer>
